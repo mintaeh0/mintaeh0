@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=1CA673&height=100&section=header&text=Hello%20I'm%20TaeHo!&fontSize=50&fontColor=00000000&stroke=1CA673&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=2c2c2c&height=100&section=header&text=Hello%20I'm%20TaeHo!&fontSize=50&fontColor=00000000&stroke=1CA673&strokeWidth=2" />
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mintaeh0&layout=compact&theme=dark)](https://github.com/mintaeh0/github-readme-stats)
   
