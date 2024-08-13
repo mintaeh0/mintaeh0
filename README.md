@@ -1,5 +1,5 @@
 <div align=center>
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=soft&color=2c2c2c&height=100&section=header&text=Hello%20I'm%20TaeHo!&fontSize=50&fontColor=1CA673" /></a>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=soft&color=2c2c2c&height=150&section=header&text=Hello%20I'm%20TaeHo!&desc=Cross-Platform%20Developer&descAlignY=80&fontSize=50&fontColor=1CA673" /></a>
   
   <br>
   <br>
