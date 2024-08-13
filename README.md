@@ -11,6 +11,10 @@
   <a href="https://velog.io/@mth1150">![](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)</a>
   <a href="https://bit.ly/4d0FAAn">![](https://img.shields.io/badge/Notion%20Resume-000000?style=for-the-badge&logo=notion&logoColor=white)</a>
 
+  <br>
+  <br>
+
+  ### Languages
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mintaeh0&layout=compact&theme=dark)</a>
   ### Skills
   <a href="#">![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)</a>
