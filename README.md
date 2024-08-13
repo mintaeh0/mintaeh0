@@ -5,7 +5,7 @@
   <br>
   <br>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mintaeh0&layout=compact&theme=dark)](https://github.com/mintaeh0/github-readme-stats)
+  <a href="#">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mintaeh0&layout=compact&theme=dark)](https://github.com/mintaeh0/github-readme-stats)</a>
   ### Skills
   <a href="#">![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)</a>
   <a href="#">![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)</a>
