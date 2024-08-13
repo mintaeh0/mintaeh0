@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=2c2c2c&height=100&section=header&text=Hello%20I'm%20TaeHo!&fontSize=50&fontColor=1CA673" />
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=soft&color=2c2c2c&height=100&section=header&text=Hello%20I'm%20TaeHo!&fontSize=50&fontColor=1CA673" /></a>
   
   <br>
   <br>
@@ -15,6 +15,6 @@
   ### Resume
   <a href="https://bit.ly/4d0FAAn">![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)</a>
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmintaeh0&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  <a href="#">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmintaeh0&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</a>
 
 </div>
