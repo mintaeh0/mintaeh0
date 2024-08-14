@@ -1,13 +1,16 @@
 <div align=center>
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=soft&color=2c2c2c&height=150&section=header&text=Hello%20I'm%20TaeHo!&desc=Cross-Platform%20Developer&descAlignY=75&fontSize=50&fontColor=1CA673" /></a>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=soft&color=2c2c2c&height=120&section=header&text=Hello%20I'm%20TaeHo!&desc=Cross-Platform%20Developer&descAlignY=75&descSize=20&fontSize=40&fontColor=1CA673" /></a>
   
   <br>
   <br>
   <br>
 
-  Email : mth1150@naver.com
+  🔥열심히 성장 중인 앱 개발자 민태호입니다!🔥
+  
   <br>
-  <br>
+  
+  mth1150@naver.com
+  
   <a href="https://velog.io/@mth1150">![](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)</a>
   <a href="https://bit.ly/4d0FAAn">![](https://img.shields.io/badge/Notion%20Resume-000000?style=for-the-badge&logo=notion&logoColor=white)</a>
 
