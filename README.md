@@ -4,3 +4,8 @@
 [![Static Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taehomin-4a2565376)
 
 `mth1150@naver.com`
+
+### Skills
+<picture>
+  <img src="https://skillicons.dev/icons?i=flutter"/>
+</picture>
